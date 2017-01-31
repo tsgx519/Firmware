@@ -179,6 +179,7 @@ qgc_firmware: \
 
 # Other NuttX firmware
 alt_firmware: \
+	check_nxphlite-v3_default \
 	check_nxphlite-v1_default \
 	check_auav-x21_default \
 	check_px4-stm32f4discovery_default \
