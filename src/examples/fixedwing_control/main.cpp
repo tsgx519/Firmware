@@ -481,6 +481,7 @@ int ex_fixedwing_control_main(int argc, char *argv[])
 		}
 
 		exit(0);
+		
 	}
 
 	usage("unrecognized command");
